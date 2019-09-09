@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+This is mi first repository :grinning:
