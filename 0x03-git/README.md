@@ -1,1 +1,0 @@
-This directory cointains the basic usage of the comands of git and another scripts
